@@ -8,17 +8,6 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Results/Findings](#resultsfindings)
 - [Recommendations](#recommendations)
-
-## Data Sources
-Details about the "healthcare_data.csv" file used for analysis, which contains comprehensive records on patient data.
-
-## Tools
-Description of Microsoft Excel as the primary tool for data cleaning, analysis, and dashboard creation.
-
-## Data Cleaning/Preparation
-Steps taken to prepare the data, including:
-- Data loading and insp
-
   
 ## Project Overview
 ---
