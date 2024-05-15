@@ -7,9 +7,10 @@
 - [Data Preparation](#data-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Results](#results)
-- 
-
+- [Recommendations](#recommendations)
+  
 ## Project Overview
+---
 
 This project presents a comprehensive dashboard visualizing various healthcare metrics. The dashboard tracks patient admissions, billing amounts by insurance providers and age groups, patient distribution by medical condition, test results, and monthly admissions, helping healthcare administrators to make informed decisions.
 
@@ -58,6 +59,7 @@ Key findings from the analysis include:
 - Most test results are normal, but a third are abnormal or inconclusive, indicating possible areas for improvement in diagnostic processes.
 
 ## Recommendations
+
 Based on the analysis, we recommend the following actions:
 - Increase staff during peak admission months (March and October) to handle patient inflow efficiently.
 - Implement and train staff on standardized emergency care protocols to enhance response efficiency and patient outcomes.
