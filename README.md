@@ -25,7 +25,7 @@ HealthCare Data: The primary dataset used for this analysis is the "healthcare_d
 
 - Excel - Data Cleaning, Data Analysis and Creating Dashboard.
 
-This dashboard was developed using Microsoft Excel. You can download it from the [Microsoft Office Website](https://www.office.com/).
+This dashboard was developed using Microsoft Excel. You can download it from the [Microsoft Office Website](https://www.office.com/)..
 
 ## Data Cleaning/Preparation
 
