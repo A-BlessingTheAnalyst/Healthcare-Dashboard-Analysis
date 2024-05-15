@@ -4,24 +4,25 @@
 - [Project Overiew](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data Preparation](#data-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Results](#results)
 - [Recommendations](#recommendations)
   
 ## Project Overview
 ---
+![HEALTHCARE DASHBOARD](https://github.com/A-BlessingTheAnalyst/Healthcare-Performance-Analysis/assets/168881527/2636f1e0-cd8b-421f-997e-155e5b4286bc)
+
 
 This project presents a comprehensive dashboard visualizing various healthcare metrics. The dashboard tracks patient admissions, billing amounts by insurance providers and age groups, patient distribution by medical condition, test results, and monthly admissions, helping healthcare administrators to make informed decisions.
 
 ## Data Sources
 
-Health Care Data: The primary dataset used for this analysis is the "healthcare_data.csv". It includes detailed records on patient admissions, medical conditions, insurance billing, and other related metrics.
+HealthCare Data: The primary dataset used for this analysis is the "healthcare_data.csv". It includes detailed records on patient admissions, medical conditions, insurance billing, and other related metrics.
 
 ## Tools
 
 - Excel - Data Cleaning, Data Analysis and Creating Dashboard.
-This dashboard was developed using Microsoft Excel. To run this dashboard on your local machine, ensure you have Microsoft Excel installed. You can download it from the [Microsoft Office Website](https://www.office.com/).
+
+This dashboard was developed using Microsoft Excel. You can download it from the [Microsoft Office Website](https://www.office.com/).
 
 ## Data Cleaning/Preparation
 
