@@ -1,7 +1,8 @@
 # Healthcare-Performance-Analysis
 
-## Tabble of Contents
-# Table of Contents
+
+## Table of Contents
+
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Cleaning/Preparation](#data-cleaningpreparation)
